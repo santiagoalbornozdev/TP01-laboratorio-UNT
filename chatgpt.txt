@@ -1,0 +1,12 @@
+ChatGPT y la Inteligencia Artificial (articulo 1)
+
+En las últimas décadas, la Inteligencia Artificial (IA) se ha desarrollado para estar presente en nuestras vidas cotidianas, hasta el punto de que algunos se han preguntado: ¿hasta dónde puede llegar esto y qué ocurrirá entonces?
+
+Creo que una respuesta bien contundente la ha dado el ChatGPT en estos primeros meses del año, que alcanzó los 100 millones de usuarios en dos meses. La IA no se refiere a un programa o software que ejecuta algoritmos predefinidos, es una rama de la ciencia de la computación que crea máquinas que llamamos “inteligentes”, que reaccionan de manera similar al cerebro humano, pero sin la intervención humana ¿Cómo es esto? La IA aprende sobre el mundo acumulando una gran cantidad de datos que le permiten establecer patrones. De esa manera, el modelo “aprende” a comportarse de una manera que, de acuerdo con nuestra experiencia, parece inteligente.
+
+
+Los diversos usos de la Inteligencia Artificial y ChatGPT (articulo 2)
+
+Usamos IA cada vez que iniciamos una app o usamos el navegador web, cuando accedemos a recomendaciones de diversos productos o cuando apelamos a las traducciones de Google Translate. De esta manera, el sistema nos presenta lo que cree que compraremos, leeremos, nuestros intereses más significativos. Desde hace varios años, convivimos también con chatbots y asistentes virtuales, es decir, aplicaciones que simulan mantener una conversación con una persona al proveer respuestas automáticas que son previamente establecidas.
+
+Pero… ¿qué diferencia al ChatGPT de un asistente virtual? El ChatGPT es un modelo de lenguaje basado en la arquitectura de “transformadores” que es capaz de procesar una gran cantidad de texto y aprender a partir de patrones que permiten emular el lenguaje natural, ofreciendo así una experiencia de conversación natural y fluida. Sus algoritmos detectan patrones disponibles en la red y a partir de ellos generan “el nuevo” texto solicitado. Se caracteriza por poder mantener una conversación, deducir si hay relación con alguna respuesta anterior que se haya generado, y hacer preguntas abiertas sin necesidad de seguir criterios concretos ni tener en cuenta el contexto. En este sentido, ChatGPT es un salto de calidad en el campo de la IA, es capaz de participar en una “discusión” abierta y no se limita a un área temática específica ni a las respuestas que ofrece.
